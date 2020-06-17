@@ -65,6 +65,8 @@ hideBox.addEventListener('change', () => {
 // Task - Search the movie from the list provided:
 // 1. As the user types, the list should show the matching pattern movies
 // 2. If the movie is not the part of our list then we show nothing as long as the search box has values
+
+//search movie
 const addMovieForm = document.forms['search-movies'];
 function search_movie() { 
     let input = document.getElementById("input[type='text']").value 
