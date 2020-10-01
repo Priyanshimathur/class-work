@@ -94,9 +94,9 @@ h1, h2{
 }
 
 #add-movie button{
-    border: 1px solid #9361bf;
+    border: 2px solid #9361bf;
     background: #9361bf;
-    padding: 10px 20px;
+    padding: 5px 10px;
     font-size: 16px;
     display: inline-block;
     margin: 0;
@@ -126,9 +126,9 @@ h1, h2{
 /*
 #tabbed-content li{
     display: inline-block;
-    padding: 10px 14px;
+    padding: 5px 7px;
     background: #ddd;
-    border-radius: 4px;
+    border-radius: 2px;
     cursor: pointer;
     margin-right: 10px;
 }
